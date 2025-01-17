@@ -2,14 +2,14 @@
 
 ## Q.2.1.1 Sur le serveur, créer un compte pour ton usage personnel.  
 En root :  
-`adduser velarion` création du compte.  
- Le dossier perso se crée et nous rentrons un mot de passe.
-
+`adduser velarion` : création du compte.  
+ Le dossier perso se crée et nous rentrons un mot de passe.  
 
 
 
 ## Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ?  
-
+Il est recommandé de rentrer l'utilisateur dans un groupe avec des droits restreints pour se connecter en root uniquement si besoin.  
+Garder un système à jour : `sudo apt update && sudo apt upgrade -y`  
 
 
 ---
