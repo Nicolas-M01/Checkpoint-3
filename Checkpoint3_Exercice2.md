@@ -10,7 +10,8 @@ En root :
 ## Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ?  
 Il est recommandé de rentrer l'utilisateur dans un groupe avec des droits restreints pour se connecter en root uniquement si besoin.  
 Garder un système à jour : `sudo apt update && sudo apt upgrade -y`  
-
+Faire des sauvegardees régulièrement.  
+Fermer la session lorsque l'on quite son poste.  
 
 ---
 
