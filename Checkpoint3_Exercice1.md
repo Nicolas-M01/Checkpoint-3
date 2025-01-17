@@ -15,3 +15,6 @@ La photo est claire (petite flèche noire montre la désactivation)
 ## Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.  
 Suppression de Kelly Rhameur de son ancien groupe au profit de Lionel Lemarchand.  
 ![Capture d'écran 2025-01-17 100612](https://github.com/user-attachments/assets/1f394401-bd5f-4322-9452-467fbd390e62)  
+
+## Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.  
+![Capture d'écran 2025-01-17 101028](https://github.com/user-attachments/assets/0738190a-a338-40df-8b6a-144a78cdd3b3)  
