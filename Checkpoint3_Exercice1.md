@@ -39,10 +39,14 @@ Suppression de Kelly Rhameur de son ancien groupe au profit de Lionel Lemarchand
 
 
 ## Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.  
+`Création groupe "LabUsers" et intégration de tous les sous-groupes dedans`  
+![Capture d'écran 2025-01-17 111056](https://github.com/user-attachments/assets/6ed4313c-8aa8-465e-b889-07fa522a9288)  
 
+`Nouvelle Police de password et intégration du groupe LabUsers`  
+![Capture d'écran 2025-01-17 111119](https://github.com/user-attachments/assets/6a2964c8-4994-4d36-a45f-d5736862e5db)  
 
-
-
+`GPO en place pour le groupe LabUsers`  
+![Capture d'écran 2025-01-17 111204](https://github.com/user-attachments/assets/93f7db76-b37e-4b7d-8204-551febdff63f)
 
 # Partie 3 : Lecteurs réseaux  
 
