@@ -44,7 +44,8 @@ Il utilise LVM
 ## Q.2.3.3 Ajouter un nouveau disque de 8,00 Gio au serveur et réparer le volume RAID  
 `Disque ajouté :`  
 ![Capture d'écran 2025-01-17 120536](https://github.com/user-attachments/assets/e867f5a4-bb39-412e-b0aa-779a0c55aea9)  
-
+`Disque monté et RAID1 fonctionnel`  
+![Capture d'écran 2025-01-17 122023](https://github.com/user-attachments/assets/a92fb50d-5130-420d-b804-180798f46bc9)
 
 
 ## Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.  
