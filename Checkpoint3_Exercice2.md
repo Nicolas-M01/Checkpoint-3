@@ -71,7 +71,9 @@ Il laisse passer les paquets à destination du port ssh par TCP.
 
 ## Q.2.5.2 Quels types de communications sont autorisées ?  
 
+
 ## Q.2.5.3 Quels types sont interdit ?  
+Les paquets invalides en entrée sont abandonnés.
 
 ## Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.  
 
