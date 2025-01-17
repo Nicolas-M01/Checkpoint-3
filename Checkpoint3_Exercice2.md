@@ -52,16 +52,25 @@ Il utilise LVM
 
 ## Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?  
 
+---
 
 # Partie 4 : Sauvegardes  
 
 ## Q.2.4.1 Expliquer succinctement les rôles respectifs des 3 composants bareos installés sur la VM.   
 * bareos-dir : Il s'installe surle serveur. Il gère la planification, le contrôle et le lancement des sauvegardes. Il gère les autres composants.  
 * bareos-sd : Il permet d'effectuer les sauvegardes sur différents supports par par un storage deamon.  
-* bareos-fd : Installé sur chaque machine devant être sauvegardée. collecte les infos et renvoie à bareos-sd. 
+* bareos-fd : Installé sur chaque machine devant être sauvegardée. collecte les infos et renvoie à bareos-sd.  
 
+---
 
+# Partie 5 : Filtrage et analyse réseau  
+## Q.2.5.1 Quelles sont actuellement les règles appliquées sur Netfilter ?  
 
+## Q.2.5.2 Quels types de communications sont autorisées ?  
+
+## Q.2.5.3 Quels types sont interdit ?  
+
+## Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.  
 
 
 
