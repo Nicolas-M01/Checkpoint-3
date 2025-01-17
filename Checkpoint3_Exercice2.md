@@ -45,9 +45,34 @@ Il utilise LVM
 `Disque ajouté :`  
 ![Capture d'écran 2025-01-17 120536](https://github.com/user-attachments/assets/e867f5a4-bb39-412e-b0aa-779a0c55aea9)  
 `Disque monté et RAID1 fonctionnel`  
-![Capture d'écran 2025-01-17 122023](https://github.com/user-attachments/assets/a92fb50d-5130-420d-b804-180798f46bc9)
-
+![Capture d'écran 2025-01-17 122023](https://github.com/user-attachments/assets/a92fb50d-5130-420d-b804-180798f46bc9)  
 
 ## Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.  
 
+
 ## Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?  
+
+
+# Partie 4 : Sauvegardes  
+
+## Q.2.4.1 Expliquer succinctement les rôles respectifs des 3 composants bareos installés sur la VM.   
+* bareos-dir : Il s'installe surle serveur. Il gère la planification, le contrôle et le lancement des sauvegardes. Il gère les autres composants.  
+* bareos-sd : Il permet d'effectuer les sauvegardes sur différents supports par par un storage deamon.  
+* bareos-fd : Installé sur chaque machine devant être sauvegardée. collecte les infos et renvoie à bareos-sd. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
