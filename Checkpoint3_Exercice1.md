@@ -44,6 +44,8 @@ Suppression de Kelly Rhameur de son ancien groupe au profit de Lionel Lemarchand
 
 `Nouvelle Police de password et intégration du groupe LabUsers`  
 ![Capture d'écran 2025-01-17 111119](https://github.com/user-attachments/assets/6a2964c8-4994-4d36-a45f-d5736862e5db)  
+``Lancement de "dsac.exe pour accéder à la politique de mdp``  
+![Capture d'écran 2025-01-17 110003](https://github.com/user-attachments/assets/d5c8084f-04b5-42ca-9786-2725912f6a67)
 
 `GPO en place pour le groupe LabUsers`  
 ![Capture d'écran 2025-01-17 111204](https://github.com/user-attachments/assets/93f7db76-b37e-4b7d-8204-551febdff63f)
