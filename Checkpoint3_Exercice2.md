@@ -36,6 +36,8 @@ Fermer la session lorsque l'on quite son poste.
 
 # Partie 3 : Analyse du stockage
 ## Q.2.3.1 Quels sont les systèmes de fichiers actuellement montés ?  
+``ext2 et ext4``  
+
 
 ## Q.2.3.2 Quel type de système de stockage ils utilisent ?  
 
