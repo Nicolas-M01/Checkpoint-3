@@ -65,6 +65,9 @@ Il utilise LVM
 
 # Partie 5 : Filtrage et analyse réseau  
 ## Q.2.5.1 Quelles sont actuellement les règles appliquées sur Netfilter ?  
+Il laisse passer les paquets ICMPv4.  
+Il laisse passer les paquets ICMPv6.  
+Il laisse passer les paquets à destination du port ssh par TCP.  
 
 ## Q.2.5.2 Quels types de communications sont autorisées ?  
 
