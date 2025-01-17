@@ -31,5 +31,16 @@ Fermer la session lorsque l'on quite son poste.
 ![Capture d'écran 2025-01-17 115333](https://github.com/user-attachments/assets/41b83377-cefc-4b3a-805e-90b39d388ffd)
 ![Capture d'écran 2025-01-17 114641](https://github.com/user-attachments/assets/3af00595-c7df-4931-90e9-e6b3af0f2ee9)  
 
-
 ---
+
+
+# Partie 3 : Analyse du stockage
+## Q.2.3.1 Quels sont les systèmes de fichiers actuellement montés ?  
+
+## Q.2.3.2 Quel type de système de stockage ils utilisent ?  
+
+## Q.2.3.3 Ajouter un nouveau disque de 8,00 Gio au serveur et réparer le volume RAID  
+
+## Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.  
+
+## Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?  
