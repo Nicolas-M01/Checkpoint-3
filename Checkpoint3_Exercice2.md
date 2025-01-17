@@ -82,8 +82,11 @@ Les paquets invalides en entrée sont abandonnés.
 
 # Partie 6 : Analyse de logs  
 ## Q.2.6.1 Lister les 10 derniers échecs de connexion ayant eu lieu sur le serveur en indiquant pour chacun :  
+![Capture d'écran 2025-01-17 132738](https://github.com/user-attachments/assets/bed32dd2-e6ec-43a5-9b63-ccb7d0fc442b)
+
 
 ## La date et l'heure de la tentative  
+17/01/2025 à 8H36 et 12H04.  
 
 ## L'adresse IP de la machine ayant fait la tentative  
 
