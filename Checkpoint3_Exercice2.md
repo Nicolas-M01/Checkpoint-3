@@ -73,7 +73,14 @@ Il utilise LVM
 ## Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.  
 
 
+---
 
+# Partie 6 : Analyse de logs  
+## Q.2.6.1 Lister les 10 derniers échecs de connexion ayant eu lieu sur le serveur en indiquant pour chacun :  
+
+## La date et l'heure de la tentative  
+
+## L'adresse IP de la machine ayant fait la tentative  
 
 
 
