@@ -19,6 +19,10 @@ Fermer la session lorsque l'on quite son poste.
 
 ## Q.2.2.1 Désactiver complètement l'accès à distance de l'utilisateur root.  
 ![Capture d'écran 2025-01-17 114525](https://github.com/user-attachments/assets/4139d1f6-eb50-43b2-86ea-b5483baf3305)  
+![Capture d'écran 2025-01-17 114641](https://github.com/user-attachments/assets/9dcc5c46-9848-44d3-8ec0-5ea49cb1044a)  
+
+
+
 
 ## Q.2.2.2 Autoriser l'accès à distance à ton compte personnel uniquement.  
 
