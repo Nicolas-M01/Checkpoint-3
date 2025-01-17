@@ -38,10 +38,11 @@ Fermer la session lorsque l'on quite son poste.
 ## Q.2.3.1 Quels sont les systèmes de fichiers actuellement montés ?  
 ``ext2 et ext4``  
 
-
 ## Q.2.3.2 Quel type de système de stockage ils utilisent ?  
+Il utilise LVM  
 
 ## Q.2.3.3 Ajouter un nouveau disque de 8,00 Gio au serveur et réparer le volume RAID  
+
 
 ## Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.  
 
