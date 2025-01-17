@@ -54,15 +54,11 @@ Suppression de Kelly Rhameur de son ancien groupe au profit de Lionel Lemarchand
 ## Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.  
 Nouvelle GPO
 
-![Capture d'écran 2025-01-17 112054](https://github.com/user-attachments/assets/7884714f-fb61-47bf-a487-99766d70c9c5)
-
-
-![Capture d'écran 2025-01-17 112024](https://github.com/user-attachments/assets/7bbd9655-b4d6-4d6c-b3ce-e6df67e3fb11)
-
-
-![Capture d'écran 2025-01-17 112103](https://github.com/user-attachments/assets/9ccc29c6-c0d5-4d74-a67e-736bc811b8c8)
-
-![Capture d'écran 2025-01-17 112207](https://github.com/user-attachments/assets/49219da6-2094-4215-af8f-425727c06a56)
+![Capture d'écran 2025-01-17 112054](https://github.com/user-attachments/assets/7884714f-fb61-47bf-a487-99766d70c9c5)  
+![Capture d'écran 2025-01-17 112024](https://github.com/user-attachments/assets/7bbd9655-b4d6-4d6c-b3ce-e6df67e3fb11)  
+![Capture d'écran 2025-01-17 112103](https://github.com/user-attachments/assets/9ccc29c6-c0d5-4d74-a67e-736bc811b8c8)  
+![Capture d'écran 2025-01-17 112207](https://github.com/user-attachments/assets/49219da6-2094-4215-af8f-425727c06a56)  
+![Capture d'écran 2025-01-17 112404](https://github.com/user-attachments/assets/6fb5543a-80cb-48d7-8eda-fb96d058afff)
 
 
 
