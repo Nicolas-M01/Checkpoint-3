@@ -10,3 +10,4 @@ Intégration dans le même groupe `GrpUsersDirectionDesRessourcesHumaines`
 
 ## Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans.  
 
+![Capture d'écran 2025-01-17 100053](https://github.com/user-attachments/assets/71a2607f-e230-4919-9dd9-e86f39a831b6)  
