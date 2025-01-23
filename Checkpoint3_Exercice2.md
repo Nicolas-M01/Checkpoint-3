@@ -58,13 +58,14 @@ Il utilise LVM
 ![Capture d'écran 2025-01-23 191245](https://github.com/user-attachments/assets/bb1921c5-8d25-4f3f-ad46-7d77a01ff571)  
 **envoie des UUID avec un "LABEL" dans `/etc/fstab`**  
 ![Capture d'écran 2025-01-23 191353](https://github.com/user-attachments/assets/42ab9996-7c84-4d5f-a845-503d165b8377)  
-**Modif d enotre partition pour être montée au redémarrage:**  
+**Modif de notre partition pour être montée au redémarrage:**  
 ![Capture d'écran 2025-01-23 191635](https://github.com/user-attachments/assets/c92d73aa-ffa8-46fd-81b1-10502c3d5eb3)  
 
 
 
-
 ## Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?  
+![Capture d'écran 2025-01-23 192443](https://github.com/user-attachments/assets/90666145-acf4-4aac-923e-1dd525579b94)  
+
 
 ---
 
