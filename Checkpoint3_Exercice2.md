@@ -28,7 +28,7 @@ Fermer la session lorsque l'on quite son poste.
 
 ## Q.2.2.3 Mettre en place une authentification par clé valide et désactiver l'authentification par mot de passe  
 ![Capture d'écran 2025-01-17 115243](https://github.com/user-attachments/assets/82a22722-1ce3-4d0a-a4b2-5f9da18814fd)  
-![Capture d'écran 2025-01-17 115333](https://github.com/user-attachments/assets/41b83377-cefc-4b3a-805e-90b39d388ffd)
+![Capture d'écran 2025-01-17 115333](https://github.com/user-attachments/assets/41b83377-cefc-4b3a-805e-90b39d388ffd)  
 ![Capture d'écran 2025-01-17 114641](https://github.com/user-attachments/assets/3af00595-c7df-4931-90e9-e6b3af0f2ee9)  
 
 ---
