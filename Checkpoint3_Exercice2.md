@@ -51,8 +51,16 @@ Il utilise LVM
 
 ## Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.  
 ![Capture d'écran 2025-01-23 191058](https://github.com/user-attachments/assets/ab57de7f-35cb-4c9a-8f41-f90f042e8840)  
-Création du volume logique avec ``lvcreate --name LVMSave --size 2G cp3-vg``  
-![Capture d'écran 2025-01-23 191125](https://github.com/user-attachments/assets/99d6f3ee-31b2-4c7b-8951-02315c2d16f4)  
+**Création du volume logique avec ``lvcreate --name LVMSave --size 2G cp3-vg``**  
+**Création de la partition en ext4:**  
+![Capture d'écran 2025-01-23 191125](https://github.com/user-attachments/assets/b59bcd0b-8922-41f1-bd58-63cad9cd24cf)  
+**Montage**  
+![Capture d'écran 2025-01-23 191245](https://github.com/user-attachments/assets/bb1921c5-8d25-4f3f-ad46-7d77a01ff571)  
+**envoie des UUID avec un "LABEL" dans `/etc/fstab`**  
+![Capture d'écran 2025-01-23 191353](https://github.com/user-attachments/assets/42ab9996-7c84-4d5f-a845-503d165b8377)
+**Modif d enotre partition pour être montée au redémarrage:**  
+![Capture d'écran 2025-01-23 191635](https://github.com/user-attachments/assets/c92d73aa-ffa8-46fd-81b1-10502c3d5eb3)
+
 
 
 
