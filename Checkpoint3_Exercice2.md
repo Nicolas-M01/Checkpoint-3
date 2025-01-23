@@ -27,7 +27,7 @@ Fermer la session lorsque l'on quite son poste.
 
 
 ## Q.2.2.3 Mettre en place une authentification par clé valide et désactiver l'authentification par mot de passe  
-![Capture d'écran 2025-01-17 115243](https://github.com/user-attachments/assets/82a22722-1ce3-4d0a-a4b2-5f9da18814fd)
+![Capture d'écran 2025-01-17 115243](https://github.com/user-attachments/assets/82a22722-1ce3-4d0a-a4b2-5f9da18814fd)  
 ![Capture d'écran 2025-01-17 115333](https://github.com/user-attachments/assets/41b83377-cefc-4b3a-805e-90b39d388ffd)
 ![Capture d'écran 2025-01-17 114641](https://github.com/user-attachments/assets/3af00595-c7df-4931-90e9-e6b3af0f2ee9)  
 
@@ -57,9 +57,9 @@ Il utilise LVM
 **Montage**  
 ![Capture d'écran 2025-01-23 191245](https://github.com/user-attachments/assets/bb1921c5-8d25-4f3f-ad46-7d77a01ff571)  
 **envoie des UUID avec un "LABEL" dans `/etc/fstab`**  
-![Capture d'écran 2025-01-23 191353](https://github.com/user-attachments/assets/42ab9996-7c84-4d5f-a845-503d165b8377)
+![Capture d'écran 2025-01-23 191353](https://github.com/user-attachments/assets/42ab9996-7c84-4d5f-a845-503d165b8377)  
 **Modif d enotre partition pour être montée au redémarrage:**  
-![Capture d'écran 2025-01-23 191635](https://github.com/user-attachments/assets/c92d73aa-ffa8-46fd-81b1-10502c3d5eb3)
+![Capture d'écran 2025-01-23 191635](https://github.com/user-attachments/assets/c92d73aa-ffa8-46fd-81b1-10502c3d5eb3)  
 
 
 
