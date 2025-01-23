@@ -29,14 +29,8 @@ Suppression de Kelly Rhameur de son ancien groupe au profit de Lionel Lemarchand
 ![Capture d'écran 2025-01-17 102418](https://github.com/user-attachments/assets/bdd9f86f-2205-4e85-833a-d116aabf0def)  
 
 ## Q.1.2.2 De même, bloquer sa connexion au seul ordinateur CLIENT01.  
-``Créer groupe "Bloquage CLIENT01`` et ajouter Gabriel.Ghul.  
-![Capture d'écran 2025-01-17 103204](https://github.com/user-attachments/assets/f94f33a0-3474-4184-a524-d1cca4a7a625)  
-``Créer GPO``  
-![Capture d'écran 2025-01-17 104957](https://github.com/user-attachments/assets/0f5b131a-85a2-4781-92fa-ad28129573eb)  
-``Attribuer groupe à la restriction``  
-![Capture d'écran 2025-01-17 105124](https://github.com/user-attachments/assets/6ff16829-0f07-4068-b3d3-c6da9ac6c7c8)  
-``Activer GPO de force``  
-![Capture d'écran 2025-01-17 105257](https://github.com/user-attachments/assets/227b4ff4-0d40-46ed-979d-5881b02dac8e)
+
+![Capture d'écran 2025-01-23 185416](https://github.com/user-attachments/assets/76ec6a80-f18c-4a12-8090-062139151b55)
 
 
 
@@ -56,12 +50,9 @@ Suppression de Kelly Rhameur de son ancien groupe au profit de Lionel Lemarchand
 # Partie 3 : Lecteurs réseaux  
 ## Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.  
 Nouvelle GPO
-
-![Capture d'écran 2025-01-17 112054](https://github.com/user-attachments/assets/7884714f-fb61-47bf-a487-99766d70c9c5)  
-![Capture d'écran 2025-01-17 112024](https://github.com/user-attachments/assets/7bbd9655-b4d6-4d6c-b3ce-e6df67e3fb11)  
-![Capture d'écran 2025-01-17 112103](https://github.com/user-attachments/assets/9ccc29c6-c0d5-4d74-a67e-736bc811b8c8)  
-![Capture d'écran 2025-01-17 112207](https://github.com/user-attachments/assets/49219da6-2094-4215-af8f-425727c06a56)  
-![Capture d'écran 2025-01-17 112404](https://github.com/user-attachments/assets/6fb5543a-80cb-48d7-8eda-fb96d058afff)
+![Capture d'écran 2025-01-23 190126](https://github.com/user-attachments/assets/6b1c75f2-cc0a-424e-8644-99e31444dfc8)  
+![Capture d'écran 2025-01-23 190220](https://github.com/user-attachments/assets/a1068125-ab8f-4e38-810c-fa79191b2b69)  
+![Capture d'écran 2025-01-23 190314](https://github.com/user-attachments/assets/5d9615be-5f2c-43fb-b60c-ed80b9e93a0c) 
 
 
 
