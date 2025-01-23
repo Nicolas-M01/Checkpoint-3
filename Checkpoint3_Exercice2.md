@@ -50,6 +50,10 @@ Il utilise LVM
 ![Capture d'écran 2025-01-17 122023](https://github.com/user-attachments/assets/a92fb50d-5130-420d-b804-180798f46bc9)  
 
 ## Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.  
+![Capture d'écran 2025-01-23 191058](https://github.com/user-attachments/assets/ab57de7f-35cb-4c9a-8f41-f90f042e8840)  
+Création du volume logique avec ``lvcreate --name LVMSave --size 2G cp3-vg``  
+![Capture d'écran 2025-01-23 191125](https://github.com/user-attachments/assets/99d6f3ee-31b2-4c7b-8951-02315c2d16f4)  
+
 
 
 ## Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?  
