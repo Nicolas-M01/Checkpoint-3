@@ -2,7 +2,8 @@
 
 ## Q.1.1.1 
 Création du user  
-![Capture d'écran 2025-01-17 094956](https://github.com/user-attachments/assets/2d47a554-d8a4-4944-8d03-4e4ea860ce8d)  
+![Capture d'écran 2025-01-23 183228](https://github.com/user-attachments/assets/dcbd352a-c5b0-4398-a658-2a509b61241e)  
+
 Intégration dans les mêmes OU que l'ancienne personne  
 ![Capture d'écran 2025-01-17 095136](https://github.com/user-attachments/assets/a0ec3af8-e131-490f-ba5a-679aea4fe63b)  
 Intégration dans le même groupe `GrpUsersDirectionDesRessourcesHumaines`  
