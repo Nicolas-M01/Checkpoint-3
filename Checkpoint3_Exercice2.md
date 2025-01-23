@@ -62,7 +62,6 @@ Il utilise LVM
 ![Capture d'écran 2025-01-23 191635](https://github.com/user-attachments/assets/c92d73aa-ffa8-46fd-81b1-10502c3d5eb3)  
 
 
-
 ## Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?  
 ![Capture d'écran 2025-01-23 192443](https://github.com/user-attachments/assets/90666145-acf4-4aac-923e-1dd525579b94)  
 
@@ -80,12 +79,14 @@ Il utilise LVM
 
 # Partie 5 : Filtrage et analyse réseau  
 ## Q.2.5.1 Quelles sont actuellement les règles appliquées sur Netfilter ?  
-Il laisse passer les paquets ICMPv4.  
-Il laisse passer les paquets ICMPv6.  
-Il laisse passer les paquets à destination du port ssh par TCP.  
+**``nft list ruleset``**  
 
 ## Q.2.5.2 Quels types de communications sont autorisées ?  
-
+``ct state established, related accept`` : les connexions déjà établies.  
+``iifname lo accept`` : trafic de bouclage  
+``tcp dport ssh accept`` : ssh  
+``ip protocol icmp accept`` : ping (icmp)  
+``ip6 nexthdr icmpv6 accept`` : ping6 (icmpv6)  
 
 ## Q.2.5.3 Quels types sont interdit ?  
 Les paquets invalides en entrée sont abandonnés.
