@@ -3,11 +3,13 @@
 ## Q.1.1.1 
 Création du user  
 ![Capture d'écran 2025-01-23 183228](https://github.com/user-attachments/assets/dcbd352a-c5b0-4398-a658-2a509b61241e)  
+![Capture d'écran 2025-01-23 183848](https://github.com/user-attachments/assets/ec67cba3-6c98-4751-8efb-e16a858feb20)  
+![Capture d'écran 2025-01-23 183948](https://github.com/user-attachments/assets/c201f630-99b9-408c-89b3-0c0460ba2a2c)  
 
 Intégration dans les mêmes OU que l'ancienne personne  
 ![Capture d'écran 2025-01-17 095136](https://github.com/user-attachments/assets/a0ec3af8-e131-490f-ba5a-679aea4fe63b)  
-Intégration dans le même groupe `GrpUsersDirectionDesRessourcesHumaines`  
-![Capture d'écran 2025-01-17 095659](https://github.com/user-attachments/assets/a79abb8f-1b27-45aa-8c81-fff9e959a83b)
+
+
 
 ## Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans.  
 La photo est claire (petite flèche noire montre la désactivation)  
