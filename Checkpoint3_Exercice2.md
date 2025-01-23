@@ -89,23 +89,24 @@ Il utilise LVM
 ``ip6 nexthdr icmpv6 accept`` : ping6 (icmpv6)  
 
 ## Q.2.5.3 Quels types sont interdit ?  
-Les paquets invalides en entrée sont abandonnés.
+``ct state invalid drop`` : paquets ne pouvant pas être identifiés et tout le reste  
 
 ## Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.  
-
+``nft add rule inet inet_filter_table in_chain tcp dport { 9101-9103 } ct state new accept``  
 
 ---
 
 # Partie 6 : Analyse de logs  
 ## Q.2.6.1 Lister les 10 derniers échecs de connexion ayant eu lieu sur le serveur en indiquant pour chacun :  
-![Capture d'écran 2025-01-17 132738](https://github.com/user-attachments/assets/bed32dd2-e6ec-43a5-9b63-ccb7d0fc442b)
+``journalctl -t sshd | grep 'Failed'| tail``  
 
 
 ## La date et l'heure de la tentative  
-17/01/2025 à 8H36 et 12H04.  
+![Capture d'écran 2025-01-23 193101](https://github.com/user-attachments/assets/5f7b0cc7-9f4e-4e5b-9ea2-2a8b9f1098ff)
+
 
 ## L'adresse IP de la machine ayant fait la tentative  
-
+``10.0.0.199``  
 
 
 
