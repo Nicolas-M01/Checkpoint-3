@@ -1,6 +1,6 @@
 # Partie 1 : Gestion des utilisateurs  
 
-## Q.1.1.1 
+## Q.1.1.1 Créer l'utilisateur Lionel Lemarchand avec les même attribut de société que Kelly Rhameur.  
 Création du user  
 ![Capture d'écran 2025-01-23 183228](https://github.com/user-attachments/assets/dcbd352a-c5b0-4398-a658-2a509b61241e)  
 ![Capture d'écran 2025-01-23 183848](https://github.com/user-attachments/assets/ec67cba3-6c98-4751-8efb-e16a858feb20)  
